@@ -2,7 +2,7 @@
 
 I usually start my projects not using package manager bacause, as you know, node_modules is the heaviest object on the universe. 
 
-As you can see [here](#devdependencies), Im not using sass-loader because I use `sass --watch` to compile my `.scss` file to `.css` file. Also, I just use VSCode Live Server Extension not `webpac-dev-serve` during my development.
+As you can see [here](#dev-dependencies), Im not using sass-loader because I use `sass --watch` to compile my `.scss` file to `.css` file. Also, I just use VSCode Live Server Extension not `webpac-dev-serve` during my development.
 
 This is just my webpack template to bundle javascript modules for my small project to run on github.
 
